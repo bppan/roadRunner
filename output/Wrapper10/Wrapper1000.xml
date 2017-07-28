@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="Wrapper10">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value="script,link"/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs="xmlns"/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="title" depth="2" attrs=""/>
+    <variant label="_A_"><pcdata depth="3"><![CDATA[你知道车灯升级的正确消费理念吗？快来看看吧_改装部落论坛_太平洋汽车论坛]]></pcdata></variant>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,itemprop"/>
+    <tag element="/meta" depth="2" attrs="content,itemprop"/>
+    <tag element="meta" depth="2" attrs="content,itemprop"/>
+    <tag element="/meta" depth="2" attrs="content,itemprop"/>
+    <tag element="meta" depth="2" attrs="content,itemprop,name"/>
+    <tag element="/meta" depth="2" attrs="content,itemprop,name"/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <tag element="div" depth="2" attrs="class=mainwrap"/>
+    <tag element="div" depth="3" attrs="id=navibar,class=navibar clearfix"/>
+    <tag element="div" depth="4" attrs="class=navibar-wap clearfix"/>
+    <tag element="div" depth="5" attrs="class=navibar-la"/>
+    <tag element="ul" depth="6" attrs="class=fl"/>
+    <tag element="li" depth="7" attrs="id=Jnb-tit-sites,class=nb-tit nb-menu nb-tit-sites"/>
+    <pcdata depth="8"><![CDATA[太平洋网络]]></pcdata>
+    <tag element="/li" depth="7" attrs="id=Jnb-tit-sites,class=nb-tit nb-menu nb-tit-sites"/>
+    <tag element="li" depth="7" attrs="class=nb-tit"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[车讯]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="/li" depth="7" attrs="class=nb-tit"/>
+    <tag element="li" depth="7" attrs="class=nb-tit"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[车型库]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="/li" depth="7" attrs="class=nb-tit"/>
+    <tag element="li" depth="7" attrs="class=nb-tit"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[经销商]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="/li" depth="7" attrs="class=nb-tit"/>
+    <tag element="li" depth="7" attrs="class=nb-tit"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[论坛]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="/li" depth="7" attrs="class=nb-tit"/>
+    <tag element="li" depth="7" attrs="class=nb-tit"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[学车]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="/li" depth="7" attrs="class=nb-tit"/>
+    <tag element="/ul" depth="6" attrs="class=fl"/>
+    <tag element="/div" depth="5" attrs="class=navibar-la"/>
+    <tag element="div" depth="5" attrs="class=navibar-lc"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[全国]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[北京]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[上海]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[广州]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[深圳]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[成都]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[武汉]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="a" depth="6" attrs="target,class=navibar-lc-more,href"/>
+    <pcdata depth="7"><![CDATA[>>]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,class=navibar-lc-more,href"/>
+    <tag element="/div" depth="5" attrs="class=navibar-lc"/>
+    <tag element="div" depth="5" attrs="class=navibar-lb navL"/>
+    <tag element="ul" depth="6" attrs="class=nb-info meg"/>
+    <tag element="li" depth="7" attrs="id=ajaxLogon,class=nb-tit nb-tit-login"/>
+    <tag element="div" depth="8" attrs="id=Jlogin-tit,class=nb-tit nb-menu"/>
+    <tag element="a" depth="9" attrs="target,href"/>
+    <pcdata depth="10"><![CDATA[登录]]></pcdata>
+    <tag element="/a" depth="9" attrs="target,href"/>
+    <tag element="/div" depth="8" attrs="id=Jlogin-tit,class=nb-tit nb-menu"/>
+    <tag element="div" depth="8" attrs="class=nb-tit"/>
+    <tag element="a" depth="9" attrs="target,href"/>
+    <pcdata depth="10"><![CDATA[注册]]></pcdata>
+    <tag element="/a" depth="9" attrs="target,href"/>
+    <tag element="/div" depth="8" attrs="class=nb-tit"/>
+    <tag element="/li" depth="7" attrs="id=ajaxLogon,class=nb-tit nb-tit-login"/>
+    <tag element="li" depth="7" attrs="id=Jnb-tit-bbs,class=nb-tit nb-menu"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[进入论坛]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="div" depth="8" attrs="class=nb-menulist"/>
+    <tag element="div" depth="9" attrs="class=nb-menulist-inner nb-ml-bbs"/>
+    <tag element="div" depth="10" attrs="class=nb-menuList-con"/>
+    <tag element="dl" depth="11" attrs=""/>
+    <tag element="dt" depth="12" attrs=""/>
+    <pcdata depth="13"><![CDATA[最近访问]]></pcdata>
+    <tag element="/dt" depth="12" attrs=""/>
+    <tag element="dd" depth="12" attrs="id=Jnb-bbs-visit"/>
+    <tag element="span" depth="13" attrs="class=nb-ml-item"/>
+    <pcdata depth="14"><![CDATA[加载中]]></pcdata>
+    <tag element="/span" depth="13" attrs="class=nb-ml-item"/>
+    <tag element="/dd" depth="12" attrs="id=Jnb-bbs-visit"/>
+    <tag element="dd" depth="12" attrs="id=Jnb-bbs-goindex"/>
+    <tag element="a" depth="13" attrs="target,class=nb-ml-item nb-mlbs-sp,href"/>
+    <pcdata depth="14"><![CDATA[去论坛首页>>]]></pcdata>
+    <tag element="/a" depth="13" attrs="target,class=nb-ml-item nb-mlbs-sp,href"/>
+    <tag element="/dd" depth="12" attrs="id=Jnb-bbs-goindex"/>
+    <tag element="/dl" depth="11" attrs=""/>
+    <tag element="dl" depth="11" attrs="id=Jnb-bbs-favb,class=nb-bbs-favb"/>
+    <tag element="dt" depth="12" attrs="class=nb-mlbs-sp"/>
+    <pcdata depth="13"><![CDATA[论坛收藏]]></pcdata>
+    <tag element="/dt" depth="12" attrs="class=nb-mlbs-sp"/>
+    <tag element="dd" depth="12" attrs="id=Jnb-bbs-favl"/>
+    <tag element="span" depth="13" attrs="class=nb-ml-item"/>
+    <pcdata depth="14"><![CDATA[加载中]]></pcdata>
+    <tag element="/span" depth="13" attrs="class=nb-ml-item"/>
+    <tag element="/dd" depth="12" attrs="id=Jnb-bbs-favl"/>
+    <tag element="/dl" depth="11" attrs="id=Jnb-bbs-favb,class=nb-bbs-favb"/>
+    <tag element="/div" depth="10" attrs="class=nb-menuList-con"/>
+    <tag element="/div" depth="9" attrs="class=nb-menulist-inner nb-ml-bbs"/>
+    <tag element="/div" depth="8" attrs="class=nb-menulist"/>
+    <tag element="/li" depth="7" attrs="id=Jnb-tit-bbs,class=nb-tit nb-menu"/>
+    <tag element="li" depth="7" attrs="class=nb-tit nb-menu nb-tit-wap"/>
+    <pcdata depth="8"><![CDATA[移动应用]]></pcdata>
+    <tag element="/li" depth="7" attrs="class=nb-tit nb-menu nb-tit-wap"/>
+    <tag element="/ul" depth="6" attrs="class=nb-info meg"/>
+    <tag element="/div" depth="5" attrs="class=navibar-lb navL"/>
+    <tag element="/div" depth="4" attrs="class=navibar-wap clearfix"/>
+    <tag element="/div" depth="3" attrs="id=navibar,class=navibar clearfix"/>
+    <tag element="div" depth="3" attrs="id=Jheader,class=header"/>
+    <tag element="div" depth="4" attrs="class=header_wrap cle"/>
+    <tag element="ul" depth="5" attrs="class=nav cle"/>
+    <tag element="li" depth="6" attrs=""/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[论坛首页]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/li" depth="6" attrs=""/>
+    <tag element="li" depth="6" attrs=""/>
+    <tag element="a" depth="7" attrs="title,target,href"/>
+    <pcdata depth="8"><![CDATA[精选日报]]></pcdata>
+    <tag element="/a" depth="7" attrs="title,target,href"/>
+    <tag element="/li" depth="6" attrs=""/>
+    <tag element="li" depth="6" attrs=""/>
+    <tag element="a" depth="7" attrs="title,target,href"/>
+    <pcdata depth="8"><![CDATA[热门活动]]></pcdata>
+    <tag element="/a" depth="7" attrs="title,target,href"/>
+    <tag element="/li" depth="6" attrs=""/>
+    <tag element="/ul" depth="5" attrs="class=nav cle"/>
+    <tag element="div" depth="5" attrs="id=header_app_load,class=header-help header_app_load"/>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <tag element="span" depth="7" attrs="class=app_load"/>
+    <pcdata depth="8"><![CDATA[APP下载]]></pcdata>
+    <tag element="/span" depth="7" attrs="class=app_load"/>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <tag element="p" depth="6" attrs="class=club-item-drop"/>
+    <tag element="em" depth="7" attrs=""/>
+    <pcdata depth="8"><![CDATA[扫一扫 轻松下载]]></pcdata>
+    <tag element="/em" depth="7" attrs=""/>
+    <tag element="/p" depth="6" attrs="class=club-item-drop"/>
+    <tag element="/div" depth="5" attrs="id=header_app_load,class=header-help header_app_load"/>
+    <tag element="/div" depth="4" attrs="class=header_wrap cle"/>
+    <tag element="/div" depth="3" attrs="id=Jheader,class=header"/>
+    <tag element="/div" depth="2" attrs="class=mainwrap"/>
+    <tag element="div" depth="2" attrs="id=content,class=container_25"/>
+    <subtree><tag element="div" depth="2" attrs="id=content,class=container_25"/></subtree>
+    <tag element="/div" depth="2" attrs="id=content,class=container_25"/>
+    <tag element="div" depth="2" attrs="class=save_success"/>
+    <tag element="span" depth="3" attrs="class=icon fb"/>
+    <pcdata depth="4"><![CDATA[回复成功！]]></pcdata>
+    <tag element="i" depth="4" attrs="class=yellow"/>
+    <pcdata depth="5"><![CDATA[积分]]></pcdata>
+    <tag element="/i" depth="4" attrs="class=yellow"/>
+    <tag element="i" depth="4" attrs="id=save_success_point"/>
+    <pcdata depth="5"><![CDATA[+2]]></pcdata>
+    <tag element="/i" depth="4" attrs="id=save_success_point"/>
+    <tag element="/span" depth="3" attrs="class=icon fb"/>
+    <tag element="/div" depth="2" attrs="class=save_success"/>
+    <tag element="div" depth="2" attrs="id=fix_reply_wrap"/>
+    <tag element="div" depth="3" attrs="id=fix_reply,class=fix fix_reply fix_reply2 fix_reply3"/>
+    <tag element="div" depth="4" attrs="class=simple clearfix fix_reply_con"/>
+    <subtree><tag element="div" depth="4" attrs="class=simple clearfix fix_reply_con"/></subtree>
+    <tag element="/div" depth="4" attrs="class=simple clearfix fix_reply_con"/>
+    <tag element="/div" depth="3" attrs="id=fix_reply,class=fix fix_reply fix_reply2 fix_reply3"/>
+    <tag element="div" depth="3" attrs="id=espo_fix,style,class=espo"/>
+    <tag element="div" depth="4" attrs="id=smiliesdiv,style"/>
+    <tag element="div" depth="5" attrs="class=slg"/>
+    <tag element="ul" depth="6" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=e_stype_1,hidefocus,class=current,href"/>
+    <pcdata depth="9"><![CDATA[默认表情]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=e_stype_1,hidefocus,class=current,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs=""/>
+    <tag element="/div" depth="5" attrs="class=slg"/>
+    <tag element="/div" depth="4" attrs="id=smiliesdiv,style"/>
+    <tag element="/div" depth="3" attrs="id=espo_fix,style,class=espo"/>
+    <tag element="/div" depth="2" attrs="id=fix_reply_wrap"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs="xmlns"/>
+  </and>
+</expression>
+</wrapper>

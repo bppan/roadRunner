@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="Mynewtest">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value="script,link"/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs=""/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <pcdata depth="2"><![CDATA[﻿]]></pcdata>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="title" depth="2" attrs=""/>
+    <variant label="_A_"><pcdata depth="3"><![CDATA[- 师资科研 - 中国人民大学信息学院]]></pcdata></variant>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="div" depth="2" attrs="id=top"/>
+    <tag element="div" depth="3" attrs="class=top_box"/>
+    <tag element="div" depth="4" attrs="class=header"/>
+    <tag element="div" depth="5" attrs="class=logo"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=logo"/>
+    <tag element="div" depth="5" attrs="class=link"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[联系我们]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <pcdata depth="6"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[院长信箱]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <pcdata depth="6"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[English]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <pcdata depth="6"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[教师入口]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=link"/>
+    <tag element="div" depth="5" attrs="class=search"/>
+    <tag element="form" depth="6" attrs="id=form,action,method"/>
+    <tag element="input" depth="7" attrs="id=name,style,name,onblur,value,class=input,onfocus,type"/>
+    <tag element="/input" depth="7" attrs="id=name,style,name,onblur,value,class=input,onfocus,type"/>
+    <tag element="img" depth="7" attrs="id=search,class=button,src"/>
+    <tag element="/img" depth="7" attrs="id=search,class=button,src"/>
+    <tag element="/form" depth="6" attrs="id=form,action,method"/>
+    <tag element="/div" depth="5" attrs="class=search"/>
+    <tag element="/div" depth="4" attrs="class=header"/>
+    <tag element="div" depth="4" attrs="class=menu"/>
+    <tag element="div" depth="5" attrs="class=menu_separator_box"/>
+    <tag element="div" depth="6" attrs="class=menu_separator1"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator1"/>
+    <tag element="div" depth="6" attrs="class=menu_separator2"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator2"/>
+    <tag element="div" depth="6" attrs="class=menu_separator3"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator3"/>
+    <tag element="div" depth="6" attrs="class=menu_separator4"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator4"/>
+    <tag element="div" depth="6" attrs="class=menu_separator5"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator5"/>
+    <tag element="div" depth="6" attrs="class=menu_separator6"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator6"/>
+    <tag element="div" depth="6" attrs="class=menu_separator7"/>
+    <tag element="img" depth="7" attrs="src"/>
+    <tag element="/img" depth="7" attrs="src"/>
+    <tag element="/div" depth="6" attrs="class=menu_separator7"/>
+    <tag element="/div" depth="5" attrs="class=menu_separator_box"/>
+    <tag element="div" depth="5" attrs="id=menu_red_bg"/>
+    <tag element="/div" depth="5" attrs="id=menu_red_bg"/>
+    <tag element="div" depth="5" attrs="class=menu_text_box"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text1,href"/>
+    <pcdata depth="9"><![CDATA[首     页]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text1,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text2,href"/>
+    <pcdata depth="9"><![CDATA[学院概况]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text2,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text3,href"/>
+    <pcdata depth="9"><![CDATA[新闻公告]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text3,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text4,href"/>
+    <pcdata depth="9"><![CDATA[人才培养]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text4,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text5,href"/>
+    <pcdata depth="9"><![CDATA[师资科研]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text5,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text6,href"/>
+    <pcdata depth="9"><![CDATA[学生发展]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text6,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text7,href"/>
+    <pcdata depth="9"><![CDATA[对外交流]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text7,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="div" depth="7" attrs="class=text"/>
+    <tag element="a" depth="8" attrs="id=menu_text8,href"/>
+    <pcdata depth="9"><![CDATA[院友之家]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=menu_text8,href"/>
+    <tag element="/div" depth="7" attrs="class=text"/>
+    <tag element="/div" depth="6" attrs="onmouseout,class=menu_text,onmouseover"/>
+    <tag element="/div" depth="5" attrs="class=menu_text_box"/>
+    <tag element="/div" depth="4" attrs="class=menu"/>
+    <tag element="/div" depth="3" attrs="class=top_box"/>
+    <tag element="/div" depth="2" attrs="id=top"/>
+    <tag element="div" depth="2" attrs="id=child_menu"/>
+    <tag element="div" depth="3" attrs="id=banner_shadow"/>
+    <tag element="/div" depth="3" attrs="id=banner_shadow"/>
+    <tag element="div" depth="3" attrs="class=child_menu_box"/>
+    <tag element="div" depth="4" attrs="id=child_menu2,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学院简介]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[院长寄语]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[现任领导]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[机构设置]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[联系我们]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu2,onmouseout,onmouseover"/>
+    <tag element="div" depth="4" attrs="id=child_menu3,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学院新闻]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学院公告]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[信息相册]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[新闻人物]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[信息影像]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu3,onmouseout,onmouseover"/>
+    <tag element="div" depth="4" attrs="id=child_menu4,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[本科生]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学术型硕士]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[全日制工程硕士]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[博士生]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[在职工程硕士]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[同等学力]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[教育公告]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu4,onmouseout,onmouseover"/>
+    <tag element="div" depth="4" attrs="id=child_menu6,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学生党建]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[团学风采]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[就业实习]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学生事务]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[奖励资助]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu6,onmouseout,onmouseover"/>
+    <tag element="div" depth="4" attrs="id=child_menu5,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[师资队伍]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[学术科研]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu5,onmouseout,onmouseover"/>
+    <tag element="div" depth="4" attrs="id=child_menu7,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[外事新闻]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[交流信息]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[合作项目]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[办事指南]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[交流简报]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[交流心得]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu7,onmouseout,onmouseover"/>
+    <tag element="div" depth="4" attrs="id=child_menu8,onmouseout,onmouseover"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[院友新闻]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[院友风采]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[院友名录]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="div" depth="5" attrs="class=item"/>
+    <tag element="a" depth="6" attrs="href"/>
+    <pcdata depth="7"><![CDATA[信息骄子]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=item"/>
+    <tag element="/div" depth="4" attrs="id=child_menu8,onmouseout,onmouseover"/>
+    <tag element="/div" depth="3" attrs="class=child_menu_box"/>
+    <tag element="/div" depth="2" attrs="id=child_menu"/>
+    <tag element="div" depth="2" attrs="id=banner_pic"/>
+    <tag element="div" depth="3" attrs="class=pic"/>
+    <tag element="img" depth="4" attrs="src"/>
+    <tag element="/img" depth="4" attrs="src"/>
+    <tag element="/div" depth="3" attrs="class=pic"/>
+    <tag element="/div" depth="2" attrs="id=banner_pic"/>
+    <tag element="div" depth="2" attrs="id=main"/>
+    <tag element="div" depth="3" attrs="class=side_bar"/>
+    <tag element="div" depth="4" attrs="class=side_top"/>
+    <tag element="a" depth="5" attrs="class=logo,href"/>
+    <tag element="img" depth="6" attrs="src"/>
+    <tag element="/img" depth="6" attrs="src"/>
+    <tag element="/a" depth="5" attrs="class=logo,href"/>
+    <tag element="/div" depth="4" attrs="class=side_top"/>
+    <tag element="span" depth="4" attrs="style"/>
+    <tag element="div" depth="5" attrs="id=cur_menu,class=side_menu"/>
+    <tag element="div" depth="6" attrs="id=faculty,name,class=text"/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[师资队伍]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/div" depth="6" attrs="id=faculty,name,class=text"/>
+    <tag element="/div" depth="5" attrs="id=cur_menu,class=side_menu"/>
+    <tag element="/span" depth="4" attrs="style"/>
+    <tag element="span" depth="4" attrs="style"/>
+    <tag element="div" depth="5" attrs="class=side_menu"/>
+    <tag element="div" depth="6" attrs="id=academic,name,class=text"/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[学术科研]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/div" depth="6" attrs="id=academic,name,class=text"/>
+    <tag element="/div" depth="5" attrs="class=side_menu"/>
+    <tag element="/span" depth="4" attrs="style"/>
+    <tag element="div" depth="4" attrs="id=sub_academic,style,name,class=sub_menu_box"/>
+    <tag element="div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="6" attrs="class=text"/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[科研动态]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/div" depth="6" attrs="class=text"/>
+    <tag element="/div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="6" attrs="class=text"/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[科研成果]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/div" depth="6" attrs="class=text"/>
+    <tag element="/div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="6" attrs="class=text"/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[科研团队]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/div" depth="6" attrs="class=text"/>
+    <tag element="/div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="5" attrs="class=sub_menu"/>
+    <tag element="div" depth="6" attrs="class=text"/>
+    <tag element="a" depth="7" attrs="href"/>
+    <pcdata depth="8"><![CDATA[讲座信息]]></pcdata>
+    <tag element="/a" depth="7" attrs="href"/>
+    <tag element="/div" depth="6" attrs="class=text"/>
+    <tag element="/div" depth="5" attrs="class=sub_menu"/>
+    <tag element="/div" depth="4" attrs="id=sub_academic,style,name,class=sub_menu_box"/>
+    <tag element="/div" depth="3" attrs="class=side_bar"/>
+    <tag element="div" depth="3" attrs="class=navigation"/>
+    <tag element="div" depth="4" attrs="class=text"/>
+    <pcdata depth="5"><![CDATA[您所在的位置：]]></pcdata>
+    <tag element="a" depth="5" attrs="href"/>
+    <pcdata depth="6"><![CDATA[师资科研]]></pcdata>
+    <tag element="/a" depth="5" attrs="href"/>
+    <pcdata depth="5"><![CDATA[>]]></pcdata>
+    <tag element="a" depth="5" attrs="href"/>
+    <pcdata depth="6"><![CDATA[师资队伍]]></pcdata>
+    <tag element="/a" depth="5" attrs="href"/>
+    <tag element="/div" depth="4" attrs="class=text"/>
+    <tag element="/div" depth="3" attrs="class=navigation"/>
+    <tag element="div" depth="3" attrs="class=content"/>
+    <subtree><tag element="div" depth="3" attrs="class=content"/></subtree>
+    <tag element="/div" depth="3" attrs="class=content"/>
+    <tag element="/div" depth="2" attrs="id=main"/>
+    <tag element="div" depth="2" attrs="id=footer"/>
+    <tag element="div" depth="3" attrs="class=bottom"/>
+    <tag element="div" depth="4" attrs="class=bottom_box"/>
+    <tag element="div" depth="5" attrs="class=wechat"/>
+    <tag element="div" depth="6" attrs="style"/>
+    <tag element="img" depth="7" attrs="style,src"/>
+    <tag element="/img" depth="7" attrs="style,src"/>
+    <pcdata depth="7"><![CDATA[公众微信二维码]]></pcdata>
+    <tag element="/div" depth="6" attrs="style"/>
+    <tag element="/div" depth="5" attrs="class=wechat"/>
+    <tag element="div" depth="5" attrs="class=copy_right"/>
+    <pcdata depth="6"><![CDATA[Copyright © 2015 School of Information, Renmin University of China. All rights reserved.]]></pcdata>
+    <tag element="/div" depth="5" attrs="class=copy_right"/>
+    <tag element="div" depth="5" attrs="class=copy_right_cn"/>
+    <pcdata depth="6"><![CDATA[版权所有 中国人民大学信息学院]]></pcdata>
+    <tag element="/div" depth="5" attrs="class=copy_right_cn"/>
+    <tag element="div" depth="5" attrs="class=address"/>
+    <pcdata depth="6"><![CDATA[地址：北京市海淀区中关村大街59号]]></pcdata>
+    <tag element="/div" depth="5" attrs="class=address"/>
+    <tag element="div" depth="5" attrs="class=email"/>
+    <pcdata depth="6"><![CDATA[邮编：100872]]></pcdata>
+    <tag element="/div" depth="5" attrs="class=email"/>
+    <tag element="/div" depth="4" attrs="class=bottom_box"/>
+    <tag element="/div" depth="3" attrs="class=bottom"/>
+    <tag element="/div" depth="2" attrs="id=footer"/>
+    <tag element="div" depth="2" attrs="style"/>
+    <tag element="/div" depth="2" attrs="style"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs=""/>
+  </and>
+</expression>
+</wrapper>

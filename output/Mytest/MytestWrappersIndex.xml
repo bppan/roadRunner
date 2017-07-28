@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="Mytest0" source="Mytest00.xml" dataset="Mytest0_DataSet.xml" number_of_samples="4" compress_ratio="99.94%" schema_dl="578" instances_dl="2361566" samples_dl="2363574">
+    <instance name="1.html-to-" source="file:/C:/Users/Administrator/Desktop/douban/xhtml/1.html-to-.xhtml" sample_dl="503872" instance_dl="503370"/>
+    <instance name="2.html-to-" source="file:/C:/Users/Administrator/Desktop/douban/xhtml/2.html-to-.xhtml" sample_dl="496143" instance_dl="495641"/>
+    <instance name="3.html-to-" source="file:/C:/Users/Administrator/Desktop/douban/xhtml/3.html-to-.xhtml" sample_dl="852407" instance_dl="851905"/>
+    <instance name="4.html-to-" source="file:/C:/Users/Administrator/Desktop/douban/xhtml/4.html-to-.xhtml" sample_dl="511152" instance_dl="510650"/>
+  </wrapper>
+</index>

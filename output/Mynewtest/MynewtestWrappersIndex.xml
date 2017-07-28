@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="Mynewtest0" source="Mynewtest00.xml" dataset="Mynewtest0_DataSet.xml" number_of_samples="50" compress_ratio="42.8%" schema_dl="13029" instances_dl="462010" samples_dl="1110002">
+    <instance name="余力-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/余力-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="27626" instance_dl="14669"/>
+    <instance name="余艳-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/余艳-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="34409" instance_dl="21450"/>
+    <instance name="吴岚-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/吴岚-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15181" instance_dl="2218"/>
+    <instance name="周春来-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/周春来-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="20581" instance_dl="7622"/>
+    <instance name="周泽民-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/周泽民-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15385" instance_dl="2424"/>
+    <instance name="周烜-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/周烜-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="24006" instance_dl="11047"/>
+    <instance name="孙彩虹-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/孙彩虹-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="32412" instance_dl="19455"/>
+    <instance name="孙辉-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/孙辉-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="13592" instance_dl="627"/>
+    <instance name="宋其江-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/宋其江-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17318" instance_dl="4359"/>
+    <instance name="左美云-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/左美云-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="24247" instance_dl="11288"/>
+    <instance name="张会平-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张会平-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="16031" instance_dl="3070"/>
+    <instance name="张伦传-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张伦传-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17761" instance_dl="4802"/>
+    <instance name="张孝-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张孝-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="44217" instance_dl="31260"/>
+    <instance name="张庆彩-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张庆彩-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17819" instance_dl="4860"/>
+    <instance name="张新勇-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张新勇-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17289" instance_dl="4328"/>
+    <instance name="张春华-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张春华-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15628" instance_dl="2667"/>
+    <instance name="张立峰-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/张立峰-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15285" instance_dl="2324"/>
+    <instance name="文继荣-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/文继荣-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="37673" instance_dl="24716"/>
+    <instance name="朱晓宝-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/朱晓宝-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="21674" instance_dl="8715"/>
+    <instance name="朱来义-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/朱来义-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17450" instance_dl="4489"/>
+    <instance name="朱青-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/朱青-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="28280" instance_dl="15321"/>
+    <instance name="杨云雁-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/杨云雁-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15337" instance_dl="2376"/>
+    <instance name="杨刚-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/杨刚-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15245" instance_dl="2282"/>
+    <instance name="杨小平-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/杨小平-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="19003" instance_dl="6044"/>
+    <instance name="杨楠-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/杨楠-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="18796" instance_dl="5837"/>
+    <instance name="杨波-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/杨波-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="18131" instance_dl="5172"/>
+    <instance name="殷弘-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/殷弘-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="16620" instance_dl="3659"/>
+    <instance name="王伟-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/王伟-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="27840" instance_dl="14881"/>
+    <instance name="王明明-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/王明明-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17530" instance_dl="4571"/>
+    <instance name="王璞巍-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/王璞巍-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="16796" instance_dl="3835"/>
+    <instance name="王秋月-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/王秋月-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17937" instance_dl="4978"/>
+    <instance name="王红艳-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/王红艳-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="14035" instance_dl="1072"/>
+    <instance name="王良-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/王良-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="18361" instance_dl="5402"/>
+    <instance name="石文昌-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/石文昌-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="22110" instance_dl="9151"/>
+    <instance name="肖建明-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/肖建明-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="13600" instance_dl="635"/>
+    <instance name="肖林-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/肖林-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="13592" instance_dl="627"/>
+    <instance name="苏俊-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/苏俊-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="14780" instance_dl="1817"/>
+    <instance name="苏红玲-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/苏红玲-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15596" instance_dl="2635"/>
+    <instance name="覃雄派-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/覃雄派-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="19874" instance_dl="6915"/>
+    <instance name="覃飙-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/覃飙-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="24499" instance_dl="11540"/>
+    <instance name="许伟-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/许伟-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="66542" instance_dl="53587"/>
+    <instance name="许作良-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/许作良-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="35109" instance_dl="22152"/>
+    <instance name="许洁萍-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/许洁萍-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="20123" instance_dl="7164"/>
+    <instance name="谢红-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/谢红-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="14207" instance_dl="1244"/>
+    <instance name="赵素云-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/赵素云-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="31175" instance_dl="18216"/>
+    <instance name="赵鑫-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/赵鑫-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="42881" instance_dl="29924"/>
+    <instance name="钟佳桂-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/钟佳桂-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="17050" instance_dl="4091"/>
+    <instance name="阳庆节-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/阳庆节-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="25821" instance_dl="12864"/>
+    <instance name="魏二玲-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/魏二玲-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="15582" instance_dl="2621"/>
+    <instance name="魏哲巍-师资科研-中国人民大学信息学院.html-to-" source="file:/C:/Users/Administrator/Desktop/RoadRunner/Sample/XHtml/魏哲巍-师资科研-中国人民大学信息学院.html-to-.xhtml" sample_dl="27966" instance_dl="15007"/>
+  </wrapper>
+</index>

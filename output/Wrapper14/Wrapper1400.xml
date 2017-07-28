@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="Wrapper14">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value="script,link"/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs="xmlns"/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="title" depth="2" attrs=""/>
+    <variant label="_A_"><pcdata depth="3"><![CDATA[足球训练 ===== [手机摄影]   11 - 槐荫区 -  齐鲁社区  齐鲁社区]]></pcdata></variant>
+    <tag element="/title" depth="2" attrs=""/>
+    <plus>
+      <and>
+        <tag element="meta" depth="2" attrs="content,name"/>
+        <tag element="/meta" depth="2" attrs="content,name"/>
+        <tag element="meta" depth="2" attrs="content,name"/>
+        <tag element="/meta" depth="2" attrs="content,name"/>
+        <tag element="meta" depth="2" attrs="content,name"/>
+        <tag element="/meta" depth="2" attrs="content,name"/>
+      </and>
+    </plus>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <hook>
+      <and>
+        <tag element="meta" depth="2" attrs="content,http-equiv"/>
+        <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+      </and>
+    </hook>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs="id=nv_forum,class=pg_viewthread,onkeydown"/>
+    <subtree><tag element="body" depth="1" attrs="id=nv_forum,class=pg_viewthread,onkeydown"/></subtree>
+    <tag element="/body" depth="1" attrs="id=nv_forum,class=pg_viewthread,onkeydown"/>
+    <tag element="/html" depth="0" attrs="xmlns"/>
+  </and>
+</expression>
+</wrapper>

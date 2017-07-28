@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="Mytest">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value="script,link"/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs="xmlns"/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="title" depth="2" attrs=""/>
+    <variant label="_A_"><pcdata depth="3"><![CDATA[?垮?涓??宀?????杈?????????ㄨ?濡??-?板??ュ?路蹇?????-5281璁哄???281缃??5281澹??涔????281??汉璁哄???281寰??缃??澹??涔??璁哄????瀚????????涔?????浼??浜恒???????涓??濠?? - Powered by Discuz!]]></pcdata></variant>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,description,name"/>
+    <tag element="/meta" depth="2" attrs="content,description,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="base" depth="2" attrs="href"/>
+    <tag element="/base" depth="2" attrs="href"/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <subtree><tag element="body" depth="1" attrs=""/></subtree>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs="xmlns"/>
+  </and>
+</expression>
+</wrapper>

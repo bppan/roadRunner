@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="Wrapper0" source="Wrapper00.xml" dataset="Wrapper0_DataSet.xml" number_of_samples="50" compress_ratio="69.62%" schema_dl="47234" instances_dl="4943464" samples_dl="7168325">
+    <instance name="0.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/0.html-to-.xhtml" sample_dl="215098" instance_dl="170397"/>
+    <instance name="1.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/1.html-to-.xhtml" sample_dl="123063" instance_dl="78494"/>
+    <instance name="10.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/10.html-to-.xhtml" sample_dl="143091" instance_dl="98654"/>
+    <instance name="11.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/11.html-to-.xhtml" sample_dl="95353" instance_dl="50912"/>
+    <instance name="12.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/12.html-to-.xhtml" sample_dl="140641" instance_dl="96147"/>
+    <instance name="13.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/13.html-to-.xhtml" sample_dl="236252" instance_dl="191626"/>
+    <instance name="14.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/14.html-to-.xhtml" sample_dl="105142" instance_dl="60703"/>
+    <instance name="15.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/15.html-to-.xhtml" sample_dl="213330" instance_dl="168893"/>
+    <instance name="16.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/16.html-to-.xhtml" sample_dl="123499" instance_dl="77404"/>
+    <instance name="17.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/17.html-to-.xhtml" sample_dl="152937" instance_dl="108498"/>
+    <instance name="18.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/18.html-to-.xhtml" sample_dl="115478" instance_dl="71039"/>
+    <instance name="19.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/19.html-to-.xhtml" sample_dl="113762" instance_dl="69323"/>
+    <instance name="2.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/2.html-to-.xhtml" sample_dl="104605" instance_dl="60166"/>
+    <instance name="20.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/20.html-to-.xhtml" sample_dl="179165" instance_dl="134728"/>
+    <instance name="21.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/21.html-to-.xhtml" sample_dl="86487" instance_dl="41991"/>
+    <instance name="22.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/22.html-to-.xhtml" sample_dl="111555" instance_dl="67116"/>
+    <instance name="23.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/23.html-to-.xhtml" sample_dl="211017" instance_dl="166389"/>
+    <instance name="24.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/24.html-to-.xhtml" sample_dl="88105" instance_dl="43664"/>
+    <instance name="25.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/25.html-to-.xhtml" sample_dl="78999" instance_dl="34962"/>
+    <instance name="26.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/26.html-to-.xhtml" sample_dl="141782" instance_dl="97343"/>
+    <instance name="27.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/27.html-to-.xhtml" sample_dl="111581" instance_dl="67012"/>
+    <instance name="28.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/28.html-to-.xhtml" sample_dl="130586" instance_dl="86017"/>
+    <instance name="29.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/29.html-to-.xhtml" sample_dl="180595" instance_dl="136103"/>
+    <instance name="3.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/3.html-to-.xhtml" sample_dl="267162" instance_dl="222597"/>
+    <instance name="30.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/30.html-to-.xhtml" sample_dl="101722" instance_dl="57226"/>
+    <instance name="31.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/31.html-to-.xhtml" sample_dl="224345" instance_dl="179910"/>
+    <instance name="32.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/32.html-to-.xhtml" sample_dl="99319" instance_dl="54878"/>
+    <instance name="33.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/33.html-to-.xhtml" sample_dl="107070" instance_dl="62631"/>
+    <instance name="34.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/34.html-to-.xhtml" sample_dl="96628" instance_dl="52187"/>
+    <instance name="35.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/35.html-to-.xhtml" sample_dl="99496" instance_dl="55057"/>
+    <instance name="36.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/36.html-to-.xhtml" sample_dl="140148" instance_dl="96113"/>
+    <instance name="37.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/37.html-to-.xhtml" sample_dl="96727" instance_dl="52231"/>
+    <instance name="38.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/38.html-to-.xhtml" sample_dl="96086" instance_dl="51643"/>
+    <instance name="39.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/39.html-to-.xhtml" sample_dl="107571" instance_dl="63132"/>
+    <instance name="4.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/4.html-to-.xhtml" sample_dl="201747" instance_dl="157174"/>
+    <instance name="40.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/40.html-to-.xhtml" sample_dl="218669" instance_dl="174007"/>
+    <instance name="41.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/41.html-to-.xhtml" sample_dl="172491" instance_dl="127924"/>
+    <instance name="42.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/42.html-to-.xhtml" sample_dl="238067" instance_dl="193502"/>
+    <instance name="43.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/43.html-to-.xhtml" sample_dl="105519" instance_dl="61025"/>
+    <instance name="44.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/44.html-to-.xhtml" sample_dl="128916" instance_dl="84477"/>
+    <instance name="45.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/45.html-to-.xhtml" sample_dl="101361" instance_dl="56922"/>
+    <instance name="46.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/46.html-to-.xhtml" sample_dl="203454" instance_dl="159421"/>
+    <instance name="47.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/47.html-to-.xhtml" sample_dl="101697" instance_dl="57258"/>
+    <instance name="48.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/48.html-to-.xhtml" sample_dl="122270" instance_dl="77756"/>
+    <instance name="49.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/49.html-to-.xhtml" sample_dl="103980" instance_dl="59356"/>
+    <instance name="5.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/5.html-to-.xhtml" sample_dl="190563" instance_dl="146126"/>
+    <instance name="6.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/6.html-to-.xhtml" sample_dl="163408" instance_dl="118971"/>
+    <instance name="7.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/7.html-to-.xhtml" sample_dl="135004" instance_dl="90510"/>
+    <instance name="8.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/8.html-to-.xhtml" sample_dl="125459" instance_dl="81018"/>
+    <instance name="9.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/第一批/xhtml/9.html-to-.xhtml" sample_dl="217323" instance_dl="172831"/>
+  </wrapper>
+</index>
