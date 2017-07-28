@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="..\.style\index.xsl" type="text/xsl"?>
+<index>
+  <wrapper name="Wrapper30" source="Wrapper300.xml" dataset="Wrapper30_DataSet.xml" number_of_samples="51" compress_ratio="86.84%" schema_dl="15822" instances_dl="4963434" samples_dl="5733723">
+    <instance name="0.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/0.html-to-.xhtml" sample_dl="112733" instance_dl="97618"/>
+    <instance name="1.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/1.html-to-.xhtml" sample_dl="24676" instance_dl="9705"/>
+    <instance name="10.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/10.html-to-.xhtml" sample_dl="118970" instance_dl="103855"/>
+    <instance name="11.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/11.html-to-.xhtml" sample_dl="118970" instance_dl="103855"/>
+    <instance name="12.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/12.html-to-.xhtml" sample_dl="119347" instance_dl="104232"/>
+    <instance name="13.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/13.html-to-.xhtml" sample_dl="118600" instance_dl="103485"/>
+    <instance name="14.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/14.html-to-.xhtml" sample_dl="121629" instance_dl="106514"/>
+    <instance name="15.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/15.html-to-.xhtml" sample_dl="121629" instance_dl="106514"/>
+    <instance name="16.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/16.html-to-.xhtml" sample_dl="122006" instance_dl="106891"/>
+    <instance name="17.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/17.html-to-.xhtml" sample_dl="121607" instance_dl="106492"/>
+    <instance name="18.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/18.html-to-.xhtml" sample_dl="122432" instance_dl="107317"/>
+    <instance name="19.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/19.html-to-.xhtml" sample_dl="116016" instance_dl="100901"/>
+    <instance name="2.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/2.html-to-.xhtml" sample_dl="24676" instance_dl="9705"/>
+    <instance name="20.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/20.html-to-.xhtml" sample_dl="121904" instance_dl="106789"/>
+    <instance name="21.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/21.html-to-.xhtml" sample_dl="121648" instance_dl="106533"/>
+    <instance name="22.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/22.html-to-.xhtml" sample_dl="115383" instance_dl="100268"/>
+    <instance name="23.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/23.html-to-.xhtml" sample_dl="121970" instance_dl="106855"/>
+    <instance name="24.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/24.html-to-.xhtml" sample_dl="127002" instance_dl="111887"/>
+    <instance name="25.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/25.html-to-.xhtml" sample_dl="121777" instance_dl="106662"/>
+    <instance name="26.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/26.html-to-.xhtml" sample_dl="124220" instance_dl="109105"/>
+    <instance name="27.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/27.html-to-.xhtml" sample_dl="122014" instance_dl="106899"/>
+    <instance name="28.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/28.html-to-.xhtml" sample_dl="121457" instance_dl="106342"/>
+    <instance name="29.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/29.html-to-.xhtml" sample_dl="120994" instance_dl="105879"/>
+    <instance name="3.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/3.html-to-.xhtml" sample_dl="24676" instance_dl="9705"/>
+    <instance name="30.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/30.html-to-.xhtml" sample_dl="121088" instance_dl="105973"/>
+    <instance name="31.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/31.html-to-.xhtml" sample_dl="121555" instance_dl="106440"/>
+    <instance name="32.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/32.html-to-.xhtml" sample_dl="121963" instance_dl="106848"/>
+    <instance name="33.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/33.html-to-.xhtml" sample_dl="114888" instance_dl="99773"/>
+    <instance name="34.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/34.html-to-.xhtml" sample_dl="121676" instance_dl="106561"/>
+    <instance name="35.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/35.html-to-.xhtml" sample_dl="121918" instance_dl="106803"/>
+    <instance name="36.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/36.html-to-.xhtml" sample_dl="121630" instance_dl="106515"/>
+    <instance name="37.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/37.html-to-.xhtml" sample_dl="119856" instance_dl="104741"/>
+    <instance name="38.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/38.html-to-.xhtml" sample_dl="119809" instance_dl="104694"/>
+    <instance name="39.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/39.html-to-.xhtml" sample_dl="121819" instance_dl="106704"/>
+    <instance name="4.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/4.html-to-.xhtml" sample_dl="114657" instance_dl="99542"/>
+    <instance name="40.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/40.html-to-.xhtml" sample_dl="120874" instance_dl="105759"/>
+    <instance name="41.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/41.html-to-.xhtml" sample_dl="121989" instance_dl="106874"/>
+    <instance name="42.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/42.html-to-.xhtml" sample_dl="121942" instance_dl="106827"/>
+    <instance name="43.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/43.html-to-.xhtml" sample_dl="119081" instance_dl="103966"/>
+    <instance name="44.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/44.html-to-.xhtml" sample_dl="119497" instance_dl="104382"/>
+    <instance name="45.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/45.html-to-.xhtml" sample_dl="119461" instance_dl="104346"/>
+    <instance name="46.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/46.html-to-.xhtml" sample_dl="114576" instance_dl="99461"/>
+    <instance name="47.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/47.html-to-.xhtml" sample_dl="113428" instance_dl="98313"/>
+    <instance name="48.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/48.html-to-.xhtml" sample_dl="119859" instance_dl="104744"/>
+    <instance name="49.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/49.html-to-.xhtml" sample_dl="119391" instance_dl="104276"/>
+    <instance name="5.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/5.html-to-.xhtml" sample_dl="24676" instance_dl="9705"/>
+    <instance name="50.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/50.html-to-.xhtml" sample_dl="119121" instance_dl="104006"/>
+    <instance name="6.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/6.html-to-.xhtml" sample_dl="121426" instance_dl="106311"/>
+    <instance name="7.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/7.html-to-.xhtml" sample_dl="113296" instance_dl="98181"/>
+    <instance name="8.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/8.html-to-.xhtml" sample_dl="118948" instance_dl="103833"/>
+    <instance name="9.html-to-" source="file:/C:/Users/Administrator/Desktop/ExtractRecordData/3/xhtml/9.html-to-.xhtml" sample_dl="118963" instance_dl="103848"/>
+  </wrapper>
+</index>

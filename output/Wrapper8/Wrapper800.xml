@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<wrapper name="Wrapper8">
+<preferences name="Wrapper Configuration for Lexical Analysis">
+  <variantTags value="a,font,b,i,span,sup"/>
+  <skipAttributes value="selected,bgcolor"/>
+  <skipTrees value="script,style"/>
+  <freetextTags value="a,font,b,i,span,sup"/>
+  <skipTags value="script,link"/>
+  <keepTags value="false"/>
+  <attributeValues value="id,class"/>
+  <freetext value="false"/>
+</preferences>
+<expression>
+  <and>
+    <tag element="html" depth="0" attrs="xmlns:wb"/>
+    <tag element="head" depth="1" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="/meta" depth="2" attrs="content,http-equiv"/>
+    <tag element="title" depth="2" attrs=""/>
+    <variant label="_A_"><pcdata depth="3"><![CDATA[评论-又在憋大招？ 传长城将推全新高端品牌_新车评网]]></pcdata></variant>
+    <tag element="/title" depth="2" attrs=""/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="meta" depth="2" attrs="content,name"/>
+    <tag element="/meta" depth="2" attrs="content,name"/>
+    <tag element="/head" depth="1" attrs=""/>
+    <tag element="body" depth="1" attrs=""/>
+    <tag element="div" depth="2" attrs="class=top_one"/>
+    <tag element="div" depth="3" attrs="class=top_content1"/>
+    <tag element="div" depth="4" attrs="class=ul_box"/>
+    <tag element="div" depth="5" attrs="class=tabs"/>
+    <tag element="ul" depth="6" attrs="class=nav-main"/>
+    <tag element="div" depth="7" attrs="class=tou_biao"/>
+    <tag element="a" depth="8" attrs="id=xuanche,target,href"/>
+    <pcdata depth="9"><![CDATA[选车]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=xuanche,target,href"/>
+    <tag element="/div" depth="7" attrs="class=tou_biao"/>
+    <tag element="li" depth="7" attrs="id=li-1"/>
+    <tag element="a" depth="8" attrs="id=video,target,href"/>
+    <pcdata depth="9"><![CDATA[视频]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=video,target,href"/>
+    <tag element="/li" depth="7" attrs="id=li-1"/>
+    <tag element="li" depth="7" attrs="id=li-2"/>
+    <tag element="a" depth="8" attrs="id=pingce,target,href"/>
+    <pcdata depth="9"><![CDATA[车评]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=pingce,target,href"/>
+    <tag element="/li" depth="7" attrs="id=li-2"/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=news,target,href"/>
+    <pcdata depth="9"><![CDATA[资讯]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=news,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=daogou,href"/>
+    <pcdata depth="9"><![CDATA[问答]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=daogou,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs="class=nav-main"/>
+    <tag element="/div" depth="5" attrs="class=tabs"/>
+    <tag element="div" depth="5" attrs="id=box-1,class=hidden-box hidden1"/>
+    <tag element="ul" depth="6" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[深度评车]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[对比测试]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[短测简评]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[原来是这样]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[凹凸用车]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[ASK YYP]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[知识教程]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[每周新车评]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[新车评Let's购]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[每周车闻乱弹]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[新车完全手册]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[驾驶旅行]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[特别策划]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[赛车赛事]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[其它花絮]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs=""/>
+    <tag element="/div" depth="5" attrs="id=box-1,class=hidden-box hidden1"/>
+    <tag element="div" depth="5" attrs="id=box-2,class=hidden-box hidden2"/>
+    <tag element="ul" depth="6" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[新车首试]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[深度车评]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[长测]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[对比测试]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[油耗测试]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[试驾手记]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="href"/>
+    <pcdata depth="9"><![CDATA[编辑室]]></pcdata>
+    <tag element="/a" depth="8" attrs="href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs=""/>
+    <tag element="/div" depth="5" attrs="id=box-2,class=hidden-box hidden2"/>
+    <tag element="div" depth="5" attrs="class=tabs"/>
+    <tag element="ul" depth="6" attrs="class=nav-main"/>
+    <tag element="div" depth="7" attrs="class=tou_biao"/>
+    <tag element="a" depth="8" attrs="id=aotu,target,href"/>
+    <pcdata depth="9"><![CDATA[用车]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=aotu,target,href"/>
+    <tag element="/div" depth="7" attrs="class=tou_biao"/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=rookie,target,href"/>
+    <pcdata depth="9"><![CDATA[菜鸟]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=rookie,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=veteran,target,href"/>
+    <pcdata depth="9"><![CDATA[老手]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=veteran,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=expert,target,href"/>
+    <pcdata depth="9"><![CDATA[达人]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=expert,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=culture,target,href"/>
+    <pcdata depth="9"><![CDATA[神游]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=culture,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs="class=nav-main"/>
+    <tag element="/div" depth="5" attrs="class=tabs"/>
+    <tag element="div" depth="5" attrs="class=tabs"/>
+    <tag element="ul" depth="6" attrs="class=nav-main"/>
+    <tag element="div" depth="7" attrs="class=tou_biao"/>
+    <tag element="a" depth="8" attrs="target,href"/>
+    <pcdata depth="9"><![CDATA[互动]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,href"/>
+    <tag element="/div" depth="7" attrs="class=tou_biao"/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=cheku,target,href"/>
+    <pcdata depth="9"><![CDATA[车库]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=cheku,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=discuss,target,href"/>
+    <pcdata depth="9"><![CDATA[讨论区]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=discuss,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=drivecar,target,href"/>
+    <pcdata depth="9"><![CDATA[约驾]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=drivecar,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="id=gift,target,href"/>
+    <pcdata depth="9"><![CDATA[欢乐送]]></pcdata>
+    <tag element="/a" depth="8" attrs="id=gift,target,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs="class=nav-main"/>
+    <tag element="/div" depth="5" attrs="class=tabs"/>
+    <tag element="/div" depth="4" attrs="class=ul_box"/>
+    <tag element="div" depth="4" attrs="id=top_login_box_0,class=top_login_box_0"/>
+    <tag element="a" depth="5" attrs="id=loginbnt,onclick,rel,href"/>
+    <pcdata depth="6"><![CDATA[登录]]></pcdata>
+    <tag element="/a" depth="5" attrs="id=loginbnt,onclick,rel,href"/>
+    <pcdata depth="5"><![CDATA[｜]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[注册]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[｜]]></pcdata>
+    <tag element="a" depth="5" attrs="onclick,rel,href"/>
+    <pcdata depth="6"><![CDATA[设为首页]]></pcdata>
+    <tag element="/a" depth="5" attrs="onclick,rel,href"/>
+    <tag element="/div" depth="4" attrs="id=top_login_box_0,class=top_login_box_0"/>
+    <tag element="div" depth="4" attrs="id=top_login_box_1,style,class=top_right"/>
+    <tag element="span" depth="5" attrs="class=loginedtip"/>
+    <tag element="a" depth="6" attrs="id=headerUsername,target,class=d_color d_name,href"/>
+    <pcdata depth="7"><![CDATA[新车评网友]]></pcdata>
+    <tag element="/a" depth="6" attrs="id=headerUsername,target,class=d_color d_name,href"/>
+    <tag element="/span" depth="5" attrs="class=loginedtip"/>
+    <tag element="a" depth="5" attrs="target,class=mess,href"/>
+    <pcdata depth="6"><![CDATA[消息]]></pcdata>
+    <tag element="em" depth="6" attrs="id=headerNoticeCount,class=new_message"/>
+    <pcdata depth="7"><![CDATA[0]]></pcdata>
+    <tag element="/em" depth="6" attrs="id=headerNoticeCount,class=new_message"/>
+    <tag element="/a" depth="5" attrs="target,class=mess,href"/>
+    <tag element="a" depth="5" attrs="id=mycars,target,href"/>
+    <pcdata depth="6"><![CDATA[车库]]></pcdata>
+    <tag element="/a" depth="5" attrs="id=mycars,target,href"/>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[设置]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <tag element="a" depth="5" attrs="onclick,href"/>
+    <pcdata depth="6"><![CDATA[退出]]></pcdata>
+    <tag element="/a" depth="5" attrs="onclick,href"/>
+    <tag element="/div" depth="4" attrs="id=top_login_box_1,style,class=top_right"/>
+    <tag element="/div" depth="3" attrs="class=top_content1"/>
+    <tag element="/div" depth="2" attrs="class=top_one"/>
+    <tag element="div" depth="2" attrs="id=main-con-outter"/>
+    <tag element="div" depth="3" attrs="class=crunav fs12"/>
+    <tag element="a" depth="4" attrs="href"/>
+    <pcdata depth="5"><![CDATA[首页]]></pcdata>
+    <tag element="/a" depth="4" attrs="href"/>
+    <pcdata depth="4"><![CDATA[ > 网友评论]]></pcdata>
+    <tag element="/div" depth="3" attrs="class=crunav fs12"/>
+    <tag element="div" depth="3" attrs="id=main-con"/>
+    <tag element="div" depth="4" attrs="id=main-con-left"/>
+    <tag element="div" depth="5" attrs="class=landlord"/>
+    <tag element="div" depth="6" attrs="class=com_title"/>
+    <hook>
+      <and>
+        <tag element="span" depth="7" attrs="style"/>
+        <variant label="_B_"><pcdata depth="8"><![CDATA[[资讯]]]></pcdata></variant>
+        <tag element="/span" depth="7" attrs="style"/>
+      </and>
+    </hook>
+    <variant label="_C_"><tag element="a" depth="7" attrs="target,href"/></variant>
+    <variant label="_D_"><pcdata depth="8"><![CDATA[又在憋大招？ 传长城将推全新高端品牌]]></pcdata></variant>
+    <tag element="/a" depth="7" attrs="target,href"/>
+    <tag element="/div" depth="6" attrs="class=com_title"/>
+    <tag element="div" depth="6" attrs="class=com_box"/>
+    <tag element="div" depth="7" attrs="class=com_left"/>
+    <tag element="h3" depth="8" attrs=""/>
+    <pcdata depth="9"><![CDATA[编辑：新车评网]]></pcdata>
+    <tag element="/h3" depth="8" attrs=""/>
+    <tag element="p" depth="8" attrs=""/>
+    <variant label="_E_"><pcdata depth="9"><![CDATA[评论：104]]></pcdata></variant>
+    <tag element="/p" depth="8" attrs=""/>
+    <tag element="/div" depth="7" attrs="class=com_left"/>
+    <tag element="div" depth="7" attrs="class=com_right"/>
+    <tag element="div" depth="8" attrs="class=com_rinfo"/>
+    <tag element="p" depth="9" attrs=""/>
+    <variant label="_F_"><pcdata depth="10"><![CDATA[去年年底哈弗H8限时降价、今年3月哈弗H9新款上市。这大半年来长城高端产品线上已经没有新的动静了。近日有消息称，长城将在11月广州车展上推出一    ]]></pcdata></variant>
+    <variant label="_G_"><tag element="a" depth="10" attrs="target,href"/></variant>
+    <pcdata depth="11"><![CDATA[查看全文]]></pcdata>
+    <tag element="/a" depth="10" attrs="target,href"/>
+    <tag element="/p" depth="9" attrs=""/>
+    <tag element="/div" depth="8" attrs="class=com_rinfo"/>
+    <tag element="/div" depth="7" attrs="class=com_right"/>
+    <tag element="div" depth="7" attrs="class=cltime"/>
+    <variant label="_H_"><pcdata depth="8"><![CDATA[发表于：2016-11-04 10:01]]></pcdata></variant>
+    <tag element="/div" depth="7" attrs="class=cltime"/>
+    <tag element="/div" depth="6" attrs="class=com_box"/>
+    <tag element="/div" depth="5" attrs="class=landlord"/>
+    <tag element="div" depth="5" attrs="class=com_sque"/>
+    <variant label="_I_"><tag element="a" depth="6" attrs="class=sq_sel,href"/></variant>
+    <pcdata depth="7"><![CDATA[正向排序]]></pcdata>
+    <tag element="/a" depth="6" attrs="class=sq_sel,href"/>
+    <variant label="_J_"><tag element="a" depth="6" attrs="href"/></variant>
+    <pcdata depth="7"><![CDATA[逆向排序]]></pcdata>
+    <tag element="/a" depth="6" attrs="href"/>
+    <tag element="/div" depth="5" attrs="class=com_sque"/>
+    <tag element="div" depth="5" attrs="class=comlist"/>
+    <subtree><tag element="div" depth="5" attrs="class=comlist"/></subtree>
+    <tag element="/div" depth="5" attrs="class=comlist"/>
+    <tag element="/div" depth="4" attrs="id=main-con-left"/>
+    <tag element="div" depth="4" attrs="id=main-con-right"/>
+    <tag element="div" depth="5" attrs="id=right-box"/>
+    <tag element="div" depth="6" attrs="class=headLine2"/>
+    <tag element="div" depth="7" attrs=""/>
+    <tag element="h2" depth="8" attrs="class=fs14"/>
+    <pcdata depth="9"><![CDATA[推荐视频]]></pcdata>
+    <tag element="/h2" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs=""/>
+    <tag element="a" depth="7" attrs="class=more fc6 fs12,href"/>
+    <pcdata depth="8"><![CDATA[更多>>]]></pcdata>
+    <tag element="/a" depth="7" attrs="class=more fc6 fs12,href"/>
+    <tag element="/div" depth="6" attrs="class=headLine2"/>
+    <tag element="div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="7" attrs="class=video_title"/>
+    <tag element="h3" depth="8" attrs="class=fs14"/>
+    <tag element="a" depth="9" attrs="href"/>
+    <pcdata depth="10"><![CDATA[新车评网试驾奥迪Q3视频]]></pcdata>
+    <tag element="/a" depth="9" attrs="href"/>
+    <tag element="/h3" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs="class=video_title"/>
+    <tag element="/div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="7" attrs="class=video_title"/>
+    <tag element="h3" depth="8" attrs="class=fs14"/>
+    <tag element="a" depth="9" attrs="href"/>
+    <pcdata depth="10"><![CDATA[卡丁车入门教学！走进赛道Lesson 1！]]></pcdata>
+    <tag element="/a" depth="9" attrs="href"/>
+    <tag element="/h3" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs="class=video_title"/>
+    <tag element="/div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="7" attrs="class=video_title"/>
+    <tag element="h3" depth="8" attrs="class=fs14"/>
+    <tag element="a" depth="9" attrs="href"/>
+    <pcdata depth="10"><![CDATA[想防止老鼠进入发动机舱，试试这个！]]></pcdata>
+    <tag element="/a" depth="9" attrs="href"/>
+    <tag element="/h3" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs="class=video_title"/>
+    <tag element="/div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="7" attrs="class=video_title"/>
+    <tag element="h3" depth="8" attrs="class=fs14"/>
+    <tag element="a" depth="9" attrs="href"/>
+    <pcdata depth="10"><![CDATA[强制安装胎压监测系统你高兴吗？]]></pcdata>
+    <tag element="/a" depth="9" attrs="href"/>
+    <tag element="/h3" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs="class=video_title"/>
+    <tag element="/div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="7" attrs="class=video_title"/>
+    <tag element="h3" depth="8" attrs="class=fs14"/>
+    <tag element="a" depth="9" attrs="href"/>
+    <pcdata depth="10"><![CDATA[速跑广东媒体卡丁车1小时耐力赛]]></pcdata>
+    <tag element="/a" depth="9" attrs="href"/>
+    <tag element="/h3" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs="class=video_title"/>
+    <tag element="/div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="6" attrs="class=video_hot"/>
+    <tag element="div" depth="7" attrs="class=video_title"/>
+    <tag element="h3" depth="8" attrs="class=fs14"/>
+    <tag element="a" depth="9" attrs="href"/>
+    <pcdata depth="10"><![CDATA[新车完全手册：荣威RX5之人性化舒适配置]]></pcdata>
+    <tag element="/a" depth="9" attrs="href"/>
+    <tag element="/h3" depth="8" attrs="class=fs14"/>
+    <tag element="/div" depth="7" attrs="class=video_title"/>
+    <tag element="/div" depth="6" attrs="class=video_hot"/>
+    <tag element="/div" depth="5" attrs="id=right-box"/>
+    <tag element="div" depth="5" attrs="id=right-box"/>
+    <tag element="div" depth="6" attrs="class=headLine2"/>
+    <tag element="div" depth="7" attrs=""/>
+    <tag element="h2" depth="8" attrs="class=fs14 bold"/>
+    <pcdata depth="9"><![CDATA[导购问题]]></pcdata>
+    <tag element="/h2" depth="8" attrs="class=fs14 bold"/>
+    <tag element="/div" depth="7" attrs=""/>
+    <tag element="a" depth="7" attrs="target,class=more fc6 fs12,href"/>
+    <pcdata depth="8"><![CDATA[更多>>]]></pcdata>
+    <tag element="/a" depth="7" attrs="target,class=more fc6 fs12,href"/>
+    <tag element="/div" depth="6" attrs="class=headLine2"/>
+    <tag element="ul" depth="6" attrs="class=fs12 n_rela"/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[轮胎换位后，胎噪增大是什么原因？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[前硬后软和前软后硬分别是两种怎样的底盘调教风格呢？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[看中起亚K3的1.4T版本，麻烦大家给点意见。]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[新款丰田威驰1.5 买手动挡还是自动挡？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[10万SUV，远景SUV、帝豪GS、瑞虎7、宝骏560，哪款好？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[请问朗逸1.6和名图1.8哪个好？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[10万内，东风风光580自动挡好用吗？油耗多少？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[追求空间实用性，油耗过得去，裸车10万内，自动挡。]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[想买个10万出头的SUV，哪个好？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[家用选车，20万买b级车还是紧凑型suv？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs="class=fs12 n_rela"/>
+    <tag element="/div" depth="5" attrs="id=right-box"/>
+    <tag element="div" depth="5" attrs="id=right-box"/>
+    <tag element="div" depth="6" attrs="class=headLine2"/>
+    <tag element="div" depth="7" attrs=""/>
+    <tag element="h2" depth="8" attrs="class=fs14 bold"/>
+    <pcdata depth="9"><![CDATA[长期测试]]></pcdata>
+    <tag element="/h2" depth="8" attrs="class=fs14 bold"/>
+    <tag element="/div" depth="7" attrs=""/>
+    <tag element="a" depth="7" attrs="target,class=more fc6 fs12,href"/>
+    <pcdata depth="8"><![CDATA[更多>>]]></pcdata>
+    <tag element="/a" depth="7" attrs="target,class=more fc6 fs12,href"/>
+    <tag element="/div" depth="6" attrs="class=headLine2"/>
+    <tag element="ul" depth="6" attrs="class=fs12 n_rela"/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[幻速S6长测（26）二保重在解决小问题]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[昂科威长测（3）从零开始熟悉17款昂科威的车厢]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[昂科威长测（2）开始可能会拒绝，但其实可以hold得住]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[科沃兹长测（7）悬挂转向舒爽吗？停车场里见分晓]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[幻速S6长测（25）性能大起底，成绩比想象中要好]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[科沃兹长测（6）发生在停车场里的那点事]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[别克2017款昂科威三个月长测启动]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[幻速S6长测（24）走过1万公里后，车况到底怎样？]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[雪佛兰科沃兹长测（5）观底盘探寻身世之谜]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="li" depth="7" attrs=""/>
+    <tag element="a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <pcdata depth="9"><![CDATA[幻速S6长测（23）尾厢装载极限大考验]]></pcdata>
+    <tag element="/a" depth="8" attrs="target,class=news-det-rela-c,href"/>
+    <tag element="/li" depth="7" attrs=""/>
+    <tag element="/ul" depth="6" attrs="class=fs12 n_rela"/>
+    <tag element="/div" depth="5" attrs="id=right-box"/>
+    <tag element="/div" depth="4" attrs="id=main-con-right"/>
+    <tag element="/div" depth="3" attrs="id=main-con"/>
+    <tag element="/div" depth="2" attrs="id=main-con-outter"/>
+    <tag element="div" depth="2" attrs="class=copy"/>
+    <tag element="div" depth="3" attrs="class=copyright"/>
+    <tag element="div" depth="4" attrs="class=copyright_link"/>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[关于我们]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[版权声明]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[隐私保护]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[常见问题]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[广告投放]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[联系我们]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[人才招聘]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[友情链接]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[网站地图]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[网页纠错]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <pcdata depth="5"><![CDATA[|]]></pcdata>
+    <tag element="a" depth="5" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[汽车标签]]></pcdata>
+    <tag element="/a" depth="5" attrs="target,href"/>
+    <tag element="/div" depth="4" attrs="class=copyright_link"/>
+    <tag element="div" depth="4" attrs="class=copyright_font"/>
+    <tag element="div" depth="5" attrs="class=copyright_font_inner"/>
+    <pcdata depth="6"><![CDATA[版权所有：深圳市车频信息咨询有限公司 xincheping@126.com 未经本站书面许可 一切内容禁止转载]]></pcdata>
+    <tag element="br" depth="6" attrs=""/>
+    <tag element="/br" depth="6" attrs=""/>
+    <pcdata depth="6"><![CDATA[增值电信业务经营许可证粤B2-20070367 ICP备案号：]]></pcdata>
+    <tag element="a" depth="6" attrs="target,href"/>
+    <pcdata depth="7"><![CDATA[粤ICP备06090518号-6]]></pcdata>
+    <tag element="/a" depth="6" attrs="target,href"/>
+    <pcdata depth="6"><![CDATA[     新车评网友QQ群：204315970]]></pcdata>
+    <tag element="/div" depth="5" attrs="class=copyright_font_inner"/>
+    <tag element="/div" depth="4" attrs="class=copyright_font"/>
+    <tag element="/div" depth="3" attrs="class=copyright"/>
+    <tag element="/div" depth="2" attrs="class=copy"/>
+    <tag element="/body" depth="1" attrs=""/>
+    <tag element="/html" depth="0" attrs="xmlns:wb"/>
+  </and>
+</expression>
+</wrapper>
